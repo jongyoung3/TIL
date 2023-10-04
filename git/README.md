@@ -8,4 +8,3 @@
     - Pull Request
         -GitHub에서 작업브랜치를 주요 브랜치로 병합할 때 쓰는 기능이다.
         - P.S GitLab에서는 Pull Request라는 용어 대신 Merge Request라는 용어를 쓴다.
-        
